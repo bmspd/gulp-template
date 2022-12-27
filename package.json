@@ -1,7 +1,7 @@
 {
-  "name": "virtual-keyboard",
+  "name": "gulp-template",
   "version": "1.0.0",
-  "description": "rsschool project",
+  "description": "gulp template",
   "main": "index.js",
   "scripts": {
     "html": "gulp",
